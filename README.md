@@ -1,2 +1,1 @@
-# pelis2
-pelis2
+# pelis
